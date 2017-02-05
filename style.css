@@ -1,0 +1,41 @@
+.wrapper {
+  width: 600px;
+  margin: 10px auto; }
+  .wrapper_1 {
+    text-align: center; }
+
+.c1 {
+  color: blue;
+  font-size: 30px; }
+
+.c2 {
+  color: red;
+  font-size: 50px; }
+
+.c3 {
+  color: green;
+  font-size: 100px; }
+
+.c4 {
+  color: green;
+  font-size: 50px; }
+
+.c5 {
+  color: green;
+  font-size: 30px; }
+
+.c6 {
+  color: red;
+  font-size: 20px; }
+
+.sty {
+  font-size: 25px; }
+
+.wrapper2 {
+  width: 80%;
+  margin: 10px auto; }
+
+h4 {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
